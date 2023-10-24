@@ -95,13 +95,12 @@ Jenkins, Docker 설명할게 있을까?
 
 ## 🔧 각 프로젝트 상세 설명
 
-### [프론트 엔드 github](http://www.naver.com) <- 클릭하면 이동됩니다!
+### [프론트 엔드 github](https://github.com/Resource-Predicters/Front_End) <- 클릭하면 이동됩니다!
 
-### [백 엔드 github](http://www.naver.com) <- 클릭하면 이동됩니다!
+### [백 엔드 github](https://github.com/Resource-Predicters/Back_End) <- 클릭하면 이동됩니다!
 
-### [인공지능 github](http://www.naver.com) <- 클릭하면 이동됩니다!
+### [Ai/Data github](https://github.com/Resource-Predicters/Data) <- 클릭하면 이동됩니다!
 
-### [IoT github](http://www.naver.com) <- 클릭하면 이동됩니다!
 
 
 ## 🤼‍♂️팀원
