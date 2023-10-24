@@ -1,4 +1,4 @@
-<h1 align="center">프로젝트 제목 👍</h1>
+<h1 align="center">원자재 가격예측 서비스📈</h1>
 
 
 <center>
@@ -20,7 +20,7 @@
 
 ```sh
 전기차 배터리에 주 원자재( 니켈, 리튬, 철스크랩, 코발트)의 과거 가격 데이터를 수집하여
-AI 예측모델을 통해 미래의 가격을 예측하는 **원자재 예측가격 웹서비스**를 제공합니다. 
+AI 예측모델을 통해 미래의 가격을 예측하는 원자재 예측가격 웹서비스를 제공합니다. 
 ```
 
 ## 🎬 [데모 사이트](http://3.39.23.184/) <- 클릭하면 이동됩니다!
@@ -47,20 +47,39 @@ React Component들을 활용하여
 
 ## 🔍 Overview
 
-### 1. Crowling를 통한 원자재 가격 수집
-<center>
-    <img src="./img/pic2.png" />
-</center>
+### 1. Crawling를 통한 원자재 가격 수집
+
 Python 이용하여 Json방식으로 데이터를 수집 및 저장 
 
 <br>
 
-### 2. 게시판 기능
+### 2. AI모델 적용하여 원자재 가격 예측
 
-<center>
-    <img src="./img/pic1.png" />
-</center>
-어떤 어떤 어떤 걸 작성하는 게시판 기능
+OOOO모델을 적용하여 미래 원자재 가격 예측
+
+<br>
+
+### 3. EC2기반 자동 배포 설정
+
+EC2를 왜 사용했지?
+
+<br>
+
+### 4. React Component활용 차트 
+
+React 설명할게 있을까?
+
+<br>
+
+### 5. Kubernetes 개발 환경 구축 
+
+Kubernetes 설명할게 있을까?
+
+<br>
+
+### 6. CI/CD 개발 환경 구축 
+
+Jenkins, Docker 설명할게 있을까?
 
 <br>
 
@@ -68,12 +87,10 @@ Python 이용하여 Json방식으로 데이터를 수집 및 저장
 ## System Architecture
 
 <center>
-    <img src="./img/pic2.png" />
+    <img src="./img/아키텍쳐구조도.png" />
 </center>
-대용량 트래픽을 고려한 서버 이중화
-
+< 아키텍쳐에 관한 설명 추가 >
 <br>
-
 
 
 ## 🔧 각 프로젝트 상세 설명
@@ -89,12 +106,12 @@ Python 이용하여 Json방식으로 데이터를 수집 및 저장
 
 ## 🤼‍♂️팀원
 
-Team Leader : 🐯**홍길동**
+Team Leader : 🐯**이재준**
 
-Backend : 🐶 **김철수**
+Backend : 🐯**이재준**
 
-Backend : 🐺 **박철수**
+Frontend : 🐱 **이윤정**
 
-Frontend : 🐱 **이철수**
+AI/Data : 🦁 **박선규**
 
-인공지능 : 🦁 **최철수**
+CI/CD : 🐹 **홍미지**
