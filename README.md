@@ -1,8 +1,10 @@
 <h1 align="center">원자재 AI 가격예측 서비스📈</h1>
 
 <center>
+    <div align="center">
     <img src="./img/alice.jpeg" width="300" height="300" align="center"/>
-</center>
+    </div>
+</center><br>
 
 > [한국품질재단] 스마트팩토리SW개발과정 / 4팀
 
