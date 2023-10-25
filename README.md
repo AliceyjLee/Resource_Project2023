@@ -1,4 +1,4 @@
-<h1 align="center">제목 정하는 중 👍</h1>
+<h1 align="center">원자재 AI 가격예측 서비스📈</h1>
 
 <center>
     <img src="./img/test.jpg"  style="zoom:76%;" align="center"/>
@@ -8,7 +8,7 @@
 
 🎬[Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)  
 🎤[발표](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)  
-📃[프로젝트 회고록](https://joon-coding.tistory.com/)
+📃[프로젝트 회고록](https://www.notion.so/181f1c9f0b934274872cd3b3ee33efea?v=cefab15e2b3f48aab3d15455fdf8b45a)
 
 <br>
 
@@ -31,8 +31,16 @@ AI 모델을 활용해 가격예측을 할 수 있습니다
 ## 📌 프로젝트 목표
 
 ```sh
-python을 사용해(원천 데이터 에서) 데이터 크롤링을 하여 DB에 (크롤링 주기) 저장을 하고
-WEB으로 차트를 통해 자재정보를 보여주는 서비스를 만들었습니다
+크롤링, API, RPA를 통해 원자재 가격데이터들을 수집하고
+AI모델을 통해서 원자재의 예측가격 결과값을 도출해냅니다.
+
+JavaSpringBoot JPA 백엔드 기반으로
+원자재, 환율, 뉴스기사, AI예측값을
+DB에 저장하고, 조회하는 기능들을 구현합니다.
+
+React Axios, 들을 활용하여
+차트를 통해 자재 가격 정보를 보여주고
+테이블을 통해 관련 뉴스 기사 정보를 제공합니다.
 ```
 
 ## 🔍 Overview
