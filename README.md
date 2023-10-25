@@ -1,7 +1,7 @@
 <h1 align="center">원자재 AI 가격예측 서비스📈</h1>
 
 <center>
-    <img src="./img/test.jpg"  style="zoom:76%;" align="center"/>
+    <img src="./img/img1.jpg"  style="zoom:76%;" align="center"/>
 </center>
 
 > [한국품질재단] 스마트팩토리SW개발과정 / 4팀
@@ -67,6 +67,7 @@ python을 사용해 데이터 크롤링을 하고 WAS에 전달하여 데이터 
 <center>
     <img src="./img/메인_02.png" />
     <div align="center">메인 페이지</div>
+    <br>
     <img src="./img/메인_01.png" />
     <div align="center">디테일 페이지</div>
 </center>
@@ -78,7 +79,8 @@ python을 사용해 데이터 크롤링을 하고 WAS에 전달하여 데이터 
 <center>
     <img src="./img/아키텍쳐 구조도.png" />
     <div align="center">아키텍쳐 구조도</div>
-</center><br>
+</center>
+<br>
 kubernetes를 자원 사용의 효율을 높이고 윤영 관리의 편의성을 높여주었습니다<br>
 
 <br>
@@ -93,15 +95,13 @@ Jenkins의 배포 횟수가 홀수시 최신버전이 A 컨트롤러에 2개의 
 <center>
     <img src="./img/blue_green_03.png" />
     <div align="center">배포전</div>
+    <br>
     <img src="./img/blue_green_01.png" />
     <div align="center">배포중</div>
+    <br>
     <img src="./img/blue_green_02.png" />
     <div align="center">배포후</div>
 </center>
-<center>
-    
-</center>
-
 <br>
 
 ### 3-2. kubernetes MySQL 2중화 구축
@@ -111,8 +111,10 @@ DB를 master와 slave로 2중화 하여 master의 정보를 slave에 저장하�
 <center>
     <img src="./img/k8s_db_01.png" />
     <div align="center">master에서 확인한 slave</div>
+    <br>
     <img src="./img/k8s_db_02.png" />
     <div align="center">slave의 master 연결 상태</div>
+    <br>
 </center>
 <br>
 *이슈사항<br>(세부 사항은 하단 아키텍쳐 git 서술)
@@ -129,6 +131,7 @@ Jenkins를 사용해 AWS와 kubernetes 자동화 배포 실행
 <center>
     <img src="./img/Jenkins_1.PNG" />
     <div align="center">Jenkins 작업목록</div>
+    <br>
     <img src="./img/Jenkins_2.png" />
     <div align="center">Jenkins 작업내역</div>
 </center>
