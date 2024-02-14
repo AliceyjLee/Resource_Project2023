@@ -2,7 +2,7 @@
 
 <center>
     <div align="center">
-    <img src="./img/alice.jpeg" width="300" height="300" align="center"/>
+    <img src="./img/최우수상.jpg" width="400" height="300" align="center"/>
     </div>
 </center><br>
 
